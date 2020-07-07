@@ -4,3 +4,7 @@ A means of archving the files that were leaked on Wikileaks as a backup. These a
 ***
 
 Please check out the [The Wikileaks Database Backup Project Wiki](https://github.com/elnarutoe/wikileaks-database/wiki) for further information on the files.
+
+| Leaked Documents | Archive Website | Wikileaks Database Wiki Link |
+| --- | --- | --- |
+| Afghanistan OEF Property List | https://elnarutoe.github.io/Afghanistan-OEF-Property-List/ | https://github.com/elnarutoe/wikileaks-database/wiki/Afghanistan-OEF-Property-List |
