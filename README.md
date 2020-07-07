@@ -3,4 +3,4 @@ A means of archving the files that were leaked on Wikileaks as a backup. These a
 
 ***
 
-Please check out the wiki for further information on the files.
+Please check out the [The Wikileaks Database Backup Project Wiki](https://github.com/elnarutoe/wikileaks-database/wiki) for further information on the files.
