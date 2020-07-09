@@ -1,0 +1,297 @@
+body {
+	width: 1000px;
+	margin: 0px auto;
+	text-align: center;
+	font-size: 11pt;
+	font-family: Arial, Helvetica, sans-serif;	
+
+}
+html {
+	background: none;
+	z-index: -9999;
+}
+img {
+	border: 0px;
+}
+hr {
+	padding: 0px;
+	margin: 2px;
+	border: 0px;
+	border-top: 1px solid #ccc;
+}
+h1 {
+	font-size: 30pt;
+	font-weight: bold;
+	text-align: left;
+	margin: 10px;
+}
+
+h2 {
+	font-size: 16pt;
+	font-weight: bold;
+	margin-bottom: 8px;
+	margin-top: 14px;
+	margin-right: 12px;
+	text-align: left;
+}
+
+h3 {
+	font-weight: bold;
+	margin-bottom: 8px;
+	margin-top: 16px;
+}
+
+h4 {
+	margin-bottom: 0px;
+	font-weight: bold;
+}
+
+p {
+	margin-bottom: 15px;
+	text-indent: 15px;
+	color: #555;
+}
+i {
+	font-size: 9pt;
+}
+label {
+	display: inline-block;
+	margin-top: 8px;
+}
+a, a:hover, a:visited, a:active {
+	color: #517781;
+	text-decoration: none;
+}
+a:visited {
+	color: #6A9CA8;
+}
+a:hover {
+	text-decoration: underline;
+}
+code {
+	width: 100%;
+}
+pre {
+	white-space: pre-wrap;
+	text-align: justify;
+	border: 1px solid #aaa;
+	margin: 0px;
+	margin-top: 10px;
+	padding: 10px;
+	width: 728px;
+}
+table.cable {
+	width: 100%;
+	margin-top: 10px;
+	border: 1px solid #aaa;
+
+}
+table.cable td, table.cable th {
+	border: 1px solid #aaa;
+	padding: 10px;
+}
+
+table.cable th.cd {
+	width: 30%;
+}
+table.cable th.cb { 
+	width: 20%
+
+}
+li {
+	list-style: disc;
+	margin-bottom: 0.2em;
+	margin-left: 3em;
+	text-align: left;
+}
+
+div.main {
+	width: 1000px;
+	margin: 0px auto;
+	text-align: justify;
+	
+}
+
+div.pane {
+	float: left;
+	padding-left: 10px;
+	padding-top: 5px;
+	margin: 5px;
+	
+
+}
+div.small {
+	width: 20%;
+	text-align: center;
+	padding-right: 5px;
+}
+div.small h3 {
+	text-align: left;
+}
+.rsmall {
+	width: 20%;
+}
+div.big {
+	text-align: left;
+	width: 75%;
+	background: none;
+	padding-top: 0px;
+}
+div.rbig {
+	width: 50%;
+}
+
+.clear {
+	clear: both;
+	margin: 0px;
+	margin-top: 8px;
+	
+}
+.footer {
+	clear: both;
+	text-align: center;
+}
+
+div.lang {
+	text-align: right;
+	margin: 8px;
+	margin-top: 16px;
+}
+div.sort a {
+	display: block;
+}
+form {
+	text-align: left;
+}
+input {
+	border: 1px solid #ccc;
+	padding: 2px;
+	margin: 0px;
+	background: none;
+	margin-right: 8px;
+}
+input.full {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	
+	width: 100%;
+	display: block;
+	font-size: 11pt;
+	font-family: Helvetica, Arial, sans-serif;	
+}
+div.frame {
+	padding: 5px;
+	margin: 5px;
+	border: 1px solid #ddd;
+	width: 230px;
+}
+
+div.right {
+	float: right;
+}
+
+div.left {
+	float: left;
+}
+div.movie {
+	background: #000;
+	color: #fff;
+	width: 480px;
+	height: 320px;
+	text-align: center;
+}
+
+div.paginator {
+	text-align: center;
+	clear: both;
+	margin: 5px;
+
+}
+div.paginator a {
+	margin: 5px;
+}
+div.pick {
+	font-weight: bold;
+	border: 1px solid #aaa;
+	text-align: center;
+}
+div.sort {
+	margin-top: 10px;
+	text-align: center;
+	border: 1px solid #aaa;
+}
+div.pick a {
+	width: 20px;
+	display: inline-block;
+	
+	text-align: center;
+}
+
+span {
+	float: right;
+	font-size: large;
+	color: #8CCB7B;
+	margin: 5px;
+	font-weight: bold;
+}
+
+span a, span a:visited, span a:hover {
+	color: #84C384;
+}
+div.donation {text-align: right;width: 600px; border: 1px solid #A3B0BF; background: #F7FAFC; background-repeat: no-repeat; background-position: 5px 5px; padding: 8px; margin: 15px auto; padding: 0px 8px 0px 8px;}
+div.donation select, div.donation input {margin:1px; margin-left: 15px;}
+div.donation input.button {margin-left: 1px;}
+div.donation select {width: 254px;border: 1px solid #000;padding: 1px;}
+div.donation input.text {width: 250px;border: 1px solid #000;padding: 1px;}
+#bodyContent div.donation a[href ^="mailto:"] {padding: 0px 18px 0px 0px;}
+div#go_mb {background-image: url('/static/gfx/moneybookersLogo.png');}
+div#go_pp {background-image: url('/static/gfx/paypalLogo.png');}
+div#go_wh {background-image: url('/static/gfx/wauhollandLogo.png');}
+div#go_fl {background-image: url('/static/gfx/flattrLogo.png');}
+dt {
+	font-weight: bold;
+}
+dd {
+	margin-left: 16px;
+}
+
+#support_page form {
+	text-align: right;
+}
+
+table.cable td.b0 {
+	border: 0;
+}
+
+strong {
+    font-weight: bold;
+}
+
+
+/* This is used by spip */
+
+.rightcol {
+    float: right;
+}
+.langlist {
+    width: 220px;
+    border: 1px solid #ccc;
+    margin: 4px;
+    padding: 4px;
+    font-size: 13px;
+}
+.morearticles {
+    width: 220px;
+    border: 1px solid #ccc;
+    margin: 4px;
+    padding: 4px;
+    margin-top: 20px;
+    font-size: 13px;
+}
+
+.small p i {
+    font-size: 14px;
+    padding-top: 12px;
+    display: block;
+}
