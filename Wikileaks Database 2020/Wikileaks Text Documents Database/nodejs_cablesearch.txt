@@ -1,0 +1,61 @@
+var http = require( "http" ),
+	repl = require( "repl" ),
+	url = require( "url" ),
+	pg = require( "pg" ).native;
+
+var db = new pg.Client( "tcp://cable@127.6.0.1/cable" )
+db.connect( )
+var createServer = function( port ) {
+	var server = http.createServer( function ( request, response ) {
+		var data = "";
+
+		request.on( "data", function( chunk ) {
+			data += chunk;
+		} );
+
+		req = url.parse( request.url, true );
+		if( req.pathname == "/view" ) {
+			cable = req.query.q;
+			q = "SELECT refid, origin, content, date FROM cable WHERE refid=$1";
+			db.query( q, [cable], function( error, result ) {
+				var json = JSON.stringify( result.rows );
+				response.writeHead( 200, {
+					"Content-Type": "text/plain; charset=utf-8",
+					"content-length": json.length
+				} );
+				response.end( json );
+			} );
+
+		} else {
+
+			search = req.query.q;
+			if( !search ) {
+				response.writeHead( 501, {
+					"Content-Type": "text/plain; charset=utf-8"
+				} );
+				return response.end( JSON.stringify( { error: "You must supply search term." } ) );
+			}
+			q = "SELECT refid, origin, ts_headline('english', content, plainto_tsquery($1)) as content FROM search \
+				LEFT OUTER JOIN cable ON (cable.id = search.document_id) \
+				WHERE document @@ plainto_tsquery($1) LIMIT 10"
+
+			query = db.query( q, [search], function( error, result ) {
+				var json = JSON.stringify( result.rows );
+				response.writeHead( 200, {
+					"Content-Type": "text/plain; charset=utf-8",
+					"content-length": json.length
+				} );
+				response.end( json );
+			} );
+		}
+	} );
+	if( port ) {
+		server.listen( port );
+	}
+
+	return server;
+};
+
+
+createServer( 3000 );
+ctx = repl.start().context;

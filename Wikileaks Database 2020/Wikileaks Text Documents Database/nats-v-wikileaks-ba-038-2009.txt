@@ -1,0 +1,863 @@
+From richard.churchill-coleman@nats.co.uk Tue Dec  8 17:38:45 2009
+Return-Path: <richard.churchill-coleman@nats.co.uk>
+X-Original-To: wl-editor@sunshinepress.org
+Delivered-To: wl-editor@sunshinepress.org
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+MIME-Version: 1.0
+Disposition-Notification-To: "CHURCHILL-COLEMAN, Richard" <Richard.CHURCHILL-COLEMAN@nats.co.uk>
+Subject: British Airways Flight BA038 Traffic Control Video
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+From: "CHURCHILL-COLEMAN, Richard" <Richard.CHURCHILL-COLEMAN@nats.co.uk>
+To: <wl-editor@sunshinepress.org>
+Cc: "HORWOOD, Patrick" <Patrick.HORWOOD@nats.co.uk>
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CA7825.07AF9847"
+Message-Id: <20091208173845.25464397891@mail.wikileaks.org>
+Date: Tue,  8 Dec 2009 17:38:45 +0000 (GMT)
+Status: RO
+Content-Length: 11498
+
+This is a multi-part message in MIME format.
+
+
+------_=_NextPart_001_01CA7825.07AF9847
+Content-Type: text/plain; charset=WINDOWS-1252
+Content-Transfer-Encoding: quoted-printable
+
+Dear Sir,
+
+=20
+
+I am writing to you in connection with the above mentioned video which
+you have posted at the link below.
+
+http://www.wikileaks.org/wiki/British_Airways_flight_038_traffic_control
+_video%2C_17_Jan_2008=20
+
+In parallel with this email to you I will also be making a sworn
+representation as to the absolute copyright that NATS Limited has in the
+content of this video and will be requiring its removal under that
+right.  However, I am writing to you separately to give you some
+background around this requirement so that it does not come across as
+merely the suppression of pubic information that you appear to portray
+on your website.
+
+=20
+
+The content of this recording contains material that is part of an
+ongoing air accident investigation.  It is NATS' policy to share this
+type of content only in environments where confidentiality can be
+preserved and where the furtherance of safety is the paramount concern.
+Without the guarantee of confidentiality, air traffic controllers,
+pilots and other key aviation workers are extremely reluctant to give
+full disclosure of circumstances surrounding air accidents and without
+full disclosure it is much harder for lessons to be learned that can
+assist in improving future air safety.
+
+=20
+
+Mr Burkill was part of that confidential reporting culture but chose to
+take this recording and use it, without consent, to publicise his
+forthcoming book.  That was the reason why NATS required him to remove
+it from his website.
+
+=20
+
+Pubic disclosure of this recording may be made by NATS in due course but
+only at the appropriate time and with the consent of all relevant
+persons.  Premature public disclosure damages NATS' stand for a "just
+culture" among our employees but adds little to the public good apart
+from satisfying the public's general curiosity.  The longer the
+recording stays on your site the more damage is done to the trust we
+have earned from our employees and our partners in the aviation safety
+industry.  I am therefore asking you to please remove it in the
+interests of speed before the legal process you have established has to
+run its course.
+
+=20
+
+If you want to respond to this request or discuss it further then I
+would be happy to hear from you.
+
+=20
+
+Yours sincerely
+
+Richard Churchill-Coleman
+
+General Counsel
+
+NATS Limited
+
++44 (0)7977 454421
+
+
+
+-----------------------------------------
+*******************************************************************If=0Ayou=
+ are not the intended recipient, please notify our Help Desk at=0AEmail pos=
+tmaster@nats.co.uk immediately. You should not copy or use=0Athis email or =
+attachment(s) for any purpose nor disclose their=0Acontents to any other pe=
+rson. NATS computer systems may be=0Amonitored and communications carried o=
+n them recorded, to secure=0Athe effective operation of the system and for =
+other lawful=0Apurposes. Please note that neither NATS nor the sender accep=
+ts any=0Aresponsibility for viruses or any losses caused as a result of=0Av=
+iruses and it is your responsibility to scan or otherwise check=0Athis emai=
+l and any attachments. NATS means NATS (En Route) plc=0A(company number: 41=
+29273), NATS (Services) Ltd (company number=0A4129270), NATSNAV Ltd (compan=
+y number: 4164590) or NATS Ltd=0A(company number 3155567) or NATS Holdings =
+Ltd (company number=0A4138218). All companies are registered in England and=
+ their=0Aregistered office is at 5th Floor, Brettenham House South,=0ALanca=
+ster Place, London, WC2E 7EN.=0A*******************************************=
+***************************=0A
+------_=_NextPart_001_01CA7825.07AF9847
+Content-Type: text/html; charset=WINDOWS-1252
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 11 (filtered medium)">
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+=09{margin:0cm;
+=09margin-bottom:.0001pt;
+=09font-size:12.0pt;
+=09font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+=09{color:blue;
+=09text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+=09{color:purple;
+=09text-decoration:underline;}
+p
+=09{mso-margin-top-alt:auto;
+=09margin-right:0cm;
+=09mso-margin-bottom-alt:auto;
+=09margin-left:0cm;
+=09font-size:12.0pt;
+=09font-family:"Times New Roman";}
+span.EmailStyle17
+=09{mso-style-type:personal-compose;
+=09font-family:"Times New Roman";
+=09color:windowtext;
+=09font-weight:normal;
+=09font-style:normal;
+=09text-decoration:none none;}
+@page Section1
+=09{size:595.3pt 841.9pt;
+=09margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.Section1
+=09{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=3DEN-GB link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>Dear Sir,<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>I am writing to you in connection with the above mentioned video wh=
+ich you
+have posted at the link below.<o:p></o:p></span></font></p>
+
+<p><font size=3D3 face=3D"Times New Roman"><span style=3D'font-size:12.0pt'=
+><a
+href=3D"http://www.wikileaks.org/wiki/British_Airways_flight_038_traffic_co=
+ntrol_video%2C_17_Jan_2008"
+title=3D"blocked::http://www.wikileaks.org/wiki/British_Airways_flight_038_=
+traffic_control_video,_17_Jan_2008">http://www.wikileaks.org/wiki/British_A=
+irways_flight_038_traffic_control_video%2C_17_Jan_2008</a>
+<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>In parallel with this email to you I will also be making a sworn
+representation as to the absolute copyright that NATS Limited has in the
+content of this video and will be requiring its removal under that right.&n=
+bsp;
+However, I am writing to you separately to give you some background around =
+this
+requirement so that it does not come across as merely the suppression of pu=
+bic
+information that you appear to portray on your website.<o:p></o:p></span></=
+font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>The content of this recording contains material that is part of an
+ongoing air accident investigation.&nbsp; It is NATS&#8217; policy to share
+this type of content only in environments where confidentiality can be
+preserved and where the furtherance of safety is the paramount concern.&nbs=
+p;
+Without the guarantee of confidentiality, air traffic controllers, pilots a=
+nd
+other key aviation workers are extremely reluctant to give full disclosure =
+of
+circumstances surrounding air accidents and without full disclosure it is m=
+uch
+harder for lessons to be learned that can assist in improving future air
+safety.<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>Mr Burkill was part of that confidential reporting culture but chos=
+e to
+take this recording and use it, without consent, to publicise his forthcomi=
+ng
+book.&nbsp; That was the reason why NATS required him to remove it from his
+website.<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>Pubic disclosure of this recording may be made by NATS in due cours=
+e
+but only at the appropriate time and with the consent of all relevant perso=
+ns.&nbsp;
+Premature public disclosure damages NATS&#8217; stand for a &#8220;just cul=
+ture&#8221;
+among our employees but adds little to the public good apart from satisfyin=
+g
+the public&#8217;s general curiosity.&nbsp; The longer the recording stays =
+on
+your site the more damage is done to the trust we have earned from our
+employees and our partners in the aviation safety industry.&nbsp; I am
+therefore asking you to please remove it in the interests of speed before t=
+he legal
+process you have established has to run its course.<o:p></o:p></span></font=
+></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>If you want to respond to this request or discuss it further then I
+would be happy to hear from you.<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>Yours sincerely<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>Richard Churchill-Coleman<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>General Counsel<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>NATS Limited<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>+44 (0)7977 454421<o:p></o:p></span></font></p>
+
+</div>
+
+</body>
+
+</html>
+
+<HTML><BODY><HTML><BODY><P><font size=3D2></P>
+***************************************************************************=
+<BR>
+If you are not the intended recipient, please notify our Help Desk at Email=
+ postmaster@nats.co.uk<BR>=20
+immediately. You should not copy or use this email or attachment(s) for any=
+ purpose nor disclose<BR>=20
+their contents to any other person.<BR>
+<BR>
+NATS computer systems may be monitored and communications carried on them r=
+ecorded, to <BR>=20
+secure the effective operation of the system<BR>=20
+<BR>
+Please note that neither NATS nor the sender accepts any responsibility for=
+ viruses or any losses<BR>=20
+caused as a result of viruses and it is your responsibility to scan or othe=
+rwise check this email<BR>
+and any attachments.<BR>=20
+<BR>
+NATS means NATS (En Route) plc (company number: 4129273), NATS (Services) L=
+td<BR>=20
+(company number 4129270), NATSNAV Ltd (company number: 4164590)<BR>
+or NATS Ltd (company number 3155567) or NATS Holdings Ltd (company number 4=
+138218).<BR>
+All companies are registered in England and their registered office is at 5=
+th Floor,<BR>=20
+Brettenham House South, Lancaster Place, London, WC2E 7EN.<BR>=20
+<BR>
+***************************************************************************=
+<BR>
+</BODY></HTML></BODY></HTML>
+------_=_NextPart_001_01CA7825.07AF9847--
+
+
+
+From richard.churchill-coleman@nats.co.uk Tue Dec  8 17:53:25 2009
+Return-Path: <richard.churchill-coleman@nats.co.uk>
+X-Original-To: wl-editor@sunshinepress.org
+Delivered-To: wl-editor@sunshinepress.org
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+MIME-Version: 1.0
+Disposition-Notification-To: "CHURCHILL-COLEMAN, Richard" <Richard.CHURCHILL-COLEMAN@nats.co.uk>
+Subject: British Airways Flight BA038 Traffic Control Video
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+From: "CHURCHILL-COLEMAN, Richard" <Richard.CHURCHILL-COLEMAN@nats.co.uk>
+To: <wl-legal@sunshinepres.org>
+Cc: <wl-editor@sunshinepress.org>
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CA7827.13124198"
+Message-Id: <20091208175325.643D039770C@mail.wikileaks.org>
+Date: Tue,  8 Dec 2009 17:53:25 +0000 (GMT)
+Status: RO
+Content-Length: 6598
+
+This is a multi-part message in MIME format.
+
+
+------_=_NextPart_001_01CA7827.13124198
+Content-Type: text/plain; charset=WINDOWS-1252
+Content-Transfer-Encoding: quoted-printable
+
+Dear Sirs,
+
+=20
+
+Further to the information supplied on the Wikileaks website, please
+supply me with your agent for service details.  However, separately I
+have written to your editor requesting that this process is abridged in
+the best interests of air safety and on the basis that this recording
+does not, I believe, fall into the category of material that Wikileaks
+prides itself on making public.  Therefore, as an alternative to
+receiving your agent for service details, I would be grateful to receive
+your confirmation that the recording has been removed.
+
+=20
+
+Yours faithfully
+
+=20
+
+Richard Churchill-Coleman
+
+General Counsel & Company Secretary
+
+NATS Limited
+
+=20
+
+
+
+-----------------------------------------
+*******************************************************************If=0Ayou=
+ are not the intended recipient, please notify our Help Desk at=0AEmail pos=
+tmaster@nats.co.uk immediately. You should not copy or use=0Athis email or =
+attachment(s) for any purpose nor disclose their=0Acontents to any other pe=
+rson. NATS computer systems may be=0Amonitored and communications carried o=
+n them recorded, to secure=0Athe effective operation of the system and for =
+other lawful=0Apurposes. Please note that neither NATS nor the sender accep=
+ts any=0Aresponsibility for viruses or any losses caused as a result of=0Av=
+iruses and it is your responsibility to scan or otherwise check=0Athis emai=
+l and any attachments. NATS means NATS (En Route) plc=0A(company number: 41=
+29273), NATS (Services) Ltd (company number=0A4129270), NATSNAV Ltd (compan=
+y number: 4164590) or NATS Ltd=0A(company number 3155567) or NATS Holdings =
+Ltd (company number=0A4138218). All companies are registered in England and=
+ their=0Aregistered office is at 5th Floor, Brettenham House South,=0ALanca=
+ster Place, London, WC2E 7EN.=0A*******************************************=
+***************************=0A
+------_=_NextPart_001_01CA7827.13124198
+Content-Type: text/html; charset=WINDOWS-1252
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 11 (filtered medium)">
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+=09{margin:0cm;
+=09margin-bottom:.0001pt;
+=09font-size:12.0pt;
+=09font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+=09{color:blue;
+=09text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+=09{color:purple;
+=09text-decoration:underline;}
+span.EmailStyle17
+=09{mso-style-type:personal-compose;
+=09font-family:"Times New Roman";
+=09color:windowtext;
+=09font-weight:normal;
+=09font-style:normal;
+=09text-decoration:none none;}
+@page Section1
+=09{size:595.3pt 841.9pt;
+=09margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.Section1
+=09{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=3DEN-GB link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>Dear Sirs,<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>Further to the information supplied on the Wikileaks website, pleas=
+e
+supply me with your agent for service details.&nbsp; However, separately I =
+have
+written to your editor requesting that this process is abridged in the best
+interests of air safety and on the basis that this recording does not, I
+believe, fall into the category of material that Wikileaks prides itself on
+making public.&nbsp; Therefore, as an alternative to receiving your agent f=
+or
+service details, I would be grateful to receive your confirmation that the
+recording has been removed.<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>Yours faithfully<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>Richard Churchill-Coleman<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>General Counsel &amp; Company Secretary<o:p></o:p></span></font></p=
+>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>NATS Limited<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>&nbsp;<o:p></o:p></span></font></p>
+
+</div>
+
+</body>
+
+</html>
+
+<HTML><BODY><HTML><BODY><P><font size=3D2></P>
+***************************************************************************=
+<BR>
+If you are not the intended recipient, please notify our Help Desk at Email=
+ postmaster@nats.co.uk<BR>=20
+immediately. You should not copy or use this email or attachment(s) for any=
+ purpose nor disclose<BR>=20
+their contents to any other person.<BR>
+<BR>
+NATS computer systems may be monitored and communications carried on them r=
+ecorded, to <BR>=20
+secure the effective operation of the system<BR>=20
+<BR>
+Please note that neither NATS nor the sender accepts any responsibility for=
+ viruses or any losses<BR>=20
+caused as a result of viruses and it is your responsibility to scan or othe=
+rwise check this email<BR>
+and any attachments.<BR>=20
+<BR>
+NATS means NATS (En Route) plc (company number: 4129273), NATS (Services) L=
+td<BR>=20
+(company number 4129270), NATSNAV Ltd (company number: 4164590)<BR>
+or NATS Ltd (company number 3155567) or NATS Holdings Ltd (company number 4=
+138218).<BR>
+All companies are registered in England and their registered office is at 5=
+th Floor,<BR>=20
+Brettenham House South, Lancaster Place, London, WC2E 7EN.<BR>=20
+<BR>
+***************************************************************************=
+<BR>
+</BODY></HTML></BODY></HTML>
+------_=_NextPart_001_01CA7827.13124198--
+
+
+
+From richard.churchill-coleman@nats.co.uk Tue Dec  8 19:03:51 2009
+Return-Path: <richard.churchill-coleman@nats.co.uk>
+X-Original-To: wl-legal@sunshinepress.org
+Delivered-To: wl-legal@sunshinepress.org
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+MIME-Version: 1.0
+Disposition-Notification-To: "CHURCHILL-COLEMAN, Richard" <Richard.CHURCHILL-COLEMAN@nats.co.uk>
+Subject: FW: British Airways Flight BA038 Traffic Control Video
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Privacy: yes
+From: "CHURCHILL-COLEMAN, Richard" <Richard.CHURCHILL-COLEMAN@nats.co.uk>
+To: <wl-legal@sunshinepress.org>
+Privacy: yes
+Privacy: yes
+Privacy: yes
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CA7830.EDEED309"
+Message-Id: <20091208190351.C5615397884@mail.wikileaks.org>
+Date: Tue,  8 Dec 2009 19:03:51 +0000 (GMT)
+Status: RO
+Content-Length: 8831
+
+This is a multi-part message in MIME format.
+
+
+------_=_NextPart_001_01CA7830.EDEED309
+Content-Type: text/plain; charset=WINDOWS-1252
+Content-Transfer-Encoding: quoted-printable
+
+Resent due to incorrect email address below.
+
+=20
+
+________________________________
+
+From: CHURCHILL-COLEMAN, Richard=20
+Sent: 08 December 2009 16:54
+To: 'wl-legal@sunshinepres.org'
+Cc: 'wl-editor@sunshinepress.org'
+Subject: British Airways Flight BA038 Traffic Control Video
+
+=20
+
+Dear Sirs,
+
+=20
+
+Further to the information supplied on the Wikileaks website, please
+supply me with your agent for service details.  However, separately I
+have written to your editor requesting that this process is abridged in
+the best interests of air safety and on the basis that this recording
+does not, I believe, fall into the category of material that Wikileaks
+prides itself on making public.  Therefore, as an alternative to
+receiving your agent for service details, I would be grateful to receive
+your confirmation that the recording has been removed.
+
+=20
+
+Yours faithfully
+
+=20
+
+Richard Churchill-Coleman
+
+General Counsel & Company Secretary
+
+NATS Limited
+
+=20
+
+
+
+-----------------------------------------
+*******************************************************************If=0Ayou=
+ are not the intended recipient, please notify our Help Desk at=0AEmail pos=
+tmaster@nats.co.uk immediately. You should not copy or use=0Athis email or =
+attachment(s) for any purpose nor disclose their=0Acontents to any other pe=
+rson. NATS computer systems may be=0Amonitored and communications carried o=
+n them recorded, to secure=0Athe effective operation of the system and for =
+other lawful=0Apurposes. Please note that neither NATS nor the sender accep=
+ts any=0Aresponsibility for viruses or any losses caused as a result of=0Av=
+iruses and it is your responsibility to scan or otherwise check=0Athis emai=
+l and any attachments. NATS means NATS (En Route) plc=0A(company number: 41=
+29273), NATS (Services) Ltd (company number=0A4129270), NATSNAV Ltd (compan=
+y number: 4164590) or NATS Ltd=0A(company number 3155567) or NATS Holdings =
+Ltd (company number=0A4138218). All companies are registered in England and=
+ their=0Aregistered office is at 5th Floor, Brettenham House South,=0ALanca=
+ster Place, London, WC2E 7EN.=0A*******************************************=
+***************************=0A
+------_=_NextPart_001_01CA7830.EDEED309
+Content-Type: text/html; charset=WINDOWS-1252
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 11 (filtered medium)">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+=09{font-family:Tahoma;
+=09panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+=09{margin:0cm;
+=09margin-bottom:.0001pt;
+=09font-size:12.0pt;
+=09font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+=09{color:blue;
+=09text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+=09{color:purple;
+=09text-decoration:underline;}
+span.EmailStyle17
+=09{mso-style-type:personal;
+=09font-family:"Times New Roman";
+=09color:windowtext;
+=09font-weight:normal;
+=09font-style:normal;
+=09text-decoration:none none;}
+span.EmailStyle18
+=09{mso-style-type:personal-reply;
+=09font-family:"Times New Roman";
+=09color:black;
+=09font-weight:normal;
+=09font-style:normal;
+=09text-decoration:none none;}
+@page Section1
+=09{size:595.3pt 841.9pt;
+=09margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.Section1
+=09{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=3DEN-GB link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblack face=3D"Times New Roman">=
+<span
+style=3D'font-size:11.0pt;color:black'>Resent due to incorrect email addres=
+s
+below.<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblack face=3D"Times New Roman">=
+<span
+style=3D'font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<div>
+
+<div class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><font siz=
+e=3D3
+face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:12.0pt'>
+
+<hr size=3D2 width=3D"100%" align=3Dcenter tabindex=3D-1>
+
+</span></font></div>
+
+<p class=3DMsoNormal><b><font size=3D2 face=3DTahoma><span lang=3DEN-US
+style=3D'font-size:10.0pt;font-family:Tahoma;font-weight:bold'>From:</span>=
+</font></b><font
+size=3D2 face=3DTahoma><span lang=3DEN-US style=3D'font-size:10.0pt;font-fa=
+mily:Tahoma'>
+CHURCHILL-COLEMAN, Richard <br>
+<b><span style=3D'font-weight:bold'>Sent:</span></b> 08 December 2009 16:54=
+<br>
+<b><span style=3D'font-weight:bold'>To:</span></b> 'wl-legal@sunshinepres.o=
+rg'<br>
+<b><span style=3D'font-weight:bold'>Cc:</span></b> 'wl-editor@sunshinepress=
+.org'<br>
+<b><span style=3D'font-weight:bold'>Subject:</span></b> British Airways Fli=
+ght
+BA038 Traffic Control Video</span></font><span lang=3DEN-US><o:p></o:p></sp=
+an></p>
+
+</div>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span style=3D=
+'font-size:
+12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>Dear Sirs,<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>Further to the information supplied on the Wikileaks website, pleas=
+e
+supply me with your agent for service details.&nbsp; However, separately I =
+have
+written to your editor requesting that this process is abridged in the best
+interests of air safety and on the basis that this recording does not, I
+believe, fall into the category of material that Wikileaks prides itself on
+making public.&nbsp; Therefore, as an alternative to receiving your agent f=
+or
+service details, I would be grateful to receive your confirmation that the
+recording has been removed.<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>Yours faithfully<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>Richard Churchill-Coleman<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>General Counsel &amp; Company Secretary<o:p></o:p></span></font></p=
+>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>NATS Limited<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3D"Times New Roman"><span style=3D=
+'font-size:
+11.0pt'>&nbsp;<o:p></o:p></span></font></p>
+
+</div>
+
+</body>
+
+</html>
+
+<HTML><BODY><HTML><BODY><P><font size=3D2></P>
+***************************************************************************=
+<BR>
+If you are not the intended recipient, please notify our Help Desk at Email=
+ postmaster@nats.co.uk<BR>=20
+immediately. You should not copy or use this email or attachment(s) for any=
+ purpose nor disclose<BR>=20
+their contents to any other person.<BR>
+<BR>
+NATS computer systems may be monitored and communications carried on them r=
+ecorded, to <BR>=20
+secure the effective operation of the system<BR>=20
+<BR>
+Please note that neither NATS nor the sender accepts any responsibility for=
+ viruses or any losses<BR>=20
+caused as a result of viruses and it is your responsibility to scan or othe=
+rwise check this email<BR>
+and any attachments.<BR>=20
+<BR>
+NATS means NATS (En Route) plc (company number: 4129273), NATS (Services) L=
+td<BR>=20
+(company number 4129270), NATSNAV Ltd (company number: 4164590)<BR>
+or NATS Ltd (company number 3155567) or NATS Holdings Ltd (company number 4=
+138218).<BR>
+All companies are registered in England and their registered office is at 5=
+th Floor,<BR>=20
+Brettenham House South, Lancaster Place, London, WC2E 7EN.<BR>=20
+<BR>
+***************************************************************************=
+<BR>
+</BODY></HTML></BODY></HTML>
+------_=_NextPart_001_01CA7830.EDEED309--
+
+
+

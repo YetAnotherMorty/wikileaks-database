@@ -1,0 +1,112 @@
+From: Valmi Dufour
+To: HC volunteers checkers
+
+Date: Wed, 23 Nov 2005 23:17:58 -0200
+Topic: The 'website reference' problem
+
+
+Hello all,
+
+I noticed today that we have a little problem: it seems that some
+checkers misunderstood a decision that was only supposed to affect the
+forum and started to approve messages referring to CS. The problem is
+that some seem to be relunctant to start freezing those again.
+
+So I'm sorry for bringing this painful discussion up again, but I
+thought this politicy needed clarifications.
+
+First of all I would like to remind you that spam checking and forum
+moderation is very different. We have always been much more liberal in
+the forum, allowing such things as visa invitation requests and
+blatant website promotion. In fact if you ever looked at the messages
+sent to spammers, they usually send them to the forum to spread their
+spam. This is because forum messages are not intrusive, they are not
+sent directly to members' email unless they requested it, and nobody
+is obligated to read them.
+
+Now with private messages we are much more careful, and we don't allow
+any kind of website promotion, even if it appears in an otherwise
+totally valid HC-related message. A website giving more information
+about the member, etc., is as far as we'll allow.
+
+But why, some ask, "Would you host me and oh, you can see my profile
+on CS too" would be considered as website promotion? Well two things
+here:
+
+1) Maybe the user chose not to fill his HC profile and to use his CS
+profile as a kind of personnal page, to give more information about
+him. Some do this because they like CS's cute website design and/or
+liberality, but do realise that CS just doesn't work nearly as well as
+HC when it comes to the actual hospitality exchange.
+
+Well I think this is a pure abuse of our service. We volunteers (you
+and I and others) invest lots of our time in making HC succesful and
+usable. Those members are using what we worked hard to build and
+giving nothing to HC in return: they won't make HC a better place,
+they won't even write comments to make it a safer place.
+
+I think we all agree that this is unacceptable.
+
+2) Maybe the user filled both his profiles in HC and CS just as well.
+But in that case, the link to his CS profile does obviously not
+qualify under our definition of a personal website giving more
+information about the person. So if the person is not giving the link
+to provide more information about herself, what is she giving it for?
+
+That CS link is then totally useless unless it's seen as website
+promotion. Which it clearly qualifies at, under our guidelines
+(personal website = more info on member, anything else = promotion),
+and thereby violates our rules:
+
+"Do not send messages to another member that are not related
+to the aim of The Hospitality Club. Those are especially but not
+exclusively requests for help finding work, appartments and visa
+invitations, website promotions and dating spam."
+
+"Website and business promotions: messages that are sent to
+promote other websites or business opportunities. Please note
+that the mere mentioning is promotion. A suitable place for this
+might be the forum category Links, Links, Links."
+
+(Reminder: Promoting CS even above mere mentionning is now allowed in
+the forum.)
+
+I think this clarifies it for you that mentionning CS is indeed
+against our rules and that you'll feel better about having to freeze
+those messages.
+
+You may wonder why we make such a big deal with CS and other such
+networks, well here is a quick explanation. We volunteers that have
+been involved since years in HC believe that it would be much more
+beneficial for everybody and for the whole idea of free hospitality
+exchange if there was only one centralised site. Why? Three reasons
+mainly:
+
+a) The TIME that members lose by filling their profiles on different
+networks and having to visit each website.
+b) The SPREADING OF VOLUNTEER RESOURCES experienced because each
+website has its team of programmer working on the database, its team
+of translator, etc., whereas those could all work together to get one
+big website that would hence be much better than any one small
+website.
+c) The possibility that ABUSERS get to change to a different network
+once they got many bad comments in another one and continue their
+actions there with a blank new reputation.
+
+The founder of CS (and all the other networks as a matter of fact)
+doesn't recognise any of these criterions as he never tried to contact
+us before or after creating his website. He is obviously a better web
+designer than we were at the beginning and has many interesting ideas,
+and we invited him to join us, share his ideas and implement them in
+one large, unique, more efficient hospitality exchange network. We
+offered him that repeatedly ever since he started his website, but
+obviously he never agreed.
+
+Hopefully those explanations will prove useful to the new team members
+that were not with us yet when all those events and discussions took
+place. And if you still feel any incomfort in freezing messages
+containing website promotion, I urge you to answer my message and we
+can further discuss why those rules were made and have to remain.
+
+Cheers,
+Valmi

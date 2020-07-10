@@ -1,0 +1,95 @@
+Skype For Asterisk Beta License Agreement
+
+PLEASE READ CAREFULLY: BY CLICKING "I AGREE" OR USING THE SKYPE FOR ASTERISK BETA SOFTWARE, YOU ARE AGREEING TO THIS SKYPE FOR ASTERISK BETA L
+ICENSE AGREEMENT ("AGREEMENT"). CLICKING "I AGREE", SIGNING THIS AGREEMENT, OR USING THE BETA SOFTWARE CONSTITUTES YOUR LEGALLY BINDING SIGNAT
+URE.  BY SUBMITTING THIS AGREEMENT YOU CERTIFY THAT: YOU HAVE READ AND UNDERSTAND THE TERMS OF THIS AGREEMENT DRAWN UP IN ENGLISH; YOU ARE CON
+SENTING TO BE BOUND BY ALL THE TERMS OF THIS AGREEMENT; ALL INFORMATION SUBMITTED BY YOU RELATED TO THIS AGREEMENT AND YOUR BETA SOFTWARE APPL
+ICATION IS ACCURATE, COMPLETE, TRUE, AND NOT MISLEADING; AND IF YOU ARE SUBMITTING THE AGREEMENT ON BEHALF OF AN ORGANIZATION, YOU CERTIFY THA
+T YOU ARE DULY AUTHORIZED TO BIND THE ORGANIZATION TO THESE TERMS.  IF YOU DO NOT AGREE WITH THE TERMS OF THIS AGREEMENT, YOU ARE NOT AUTHORIZ
+ED TO DISTRIBUTE OR USE THE BETA SOFTWARE OR RELATED SERVICES IN ANY MANNER.  THIS AGREEMENT IS MADE BY AND BETWEEN DIGIUM, INC. AND AFFILIATE
+S, COLLECTIVELY REFERRED TO AS "DIGIUM", AND THE PERSON OR ENTITY LISTED AS COMPANY ("COMPANY" OR "LICENSEE") IN THE BETA SOFTWARE APPLICATION
+ FORM SUBMITTED BY THE APPLICANT ("YOU" OR "APPLICANT") IN CONJUNCTION WITH THIS AGREEMENT. DIGIUM, APPLICANT AND COMPANY ARE REFERRED TO INDI
+VIDUALLY AS A "PARTY" OR COLLECTIVELY AS "PARTIES". NOTIFICATIONS MADE PURSUANT TO THIS AGREEMENT, EXCLUDING FINANCIAL MATTERS, SHALL BE GIVEN
+ TO DIGIUM, INC., ATTN: CONTRACTS MANAGER, 445 JAN DAVIS DRIVE, HUNTSVILLE, ALABAMA 35806, TEL. (+1) 256-428-6000, FAX (+1) 256-428-6058. 
+
+
+You acknowledge and agree that Licensee will not be able to use Licensee's existing Skype user names and accounts and existing Skype online nu
+mbers when the Beta software is released for general availability and production use. Upon general release of the Beta Software, Licensee shal
+l create new Skype managed user accounts under the Business Control Panel and shall agree to new business terms and conditions before being au
+thorized to use the Skype for Asterisk software. Managed user accounts will be the only type of users authorized to use the Skype for Asterisk
+ software upon its general release.
+
+
+1.	Definitions.  
+
+1.1 "Beta Software" means pre-production/pre-released versions of the Skype For Asterisk software being licensed under this Agreement, which i
+s not yet intended for general availability or production use. The Beta Software is more fully described in Exhibit A of this Agreement. 
+
+1.2 "Location" means at the facilities of You or Company, worldwide, except in those countries where the export of the Beta Software from the 
+U.S. would be forbidden by the U.S. government or by any other applicable international export restrictions.
+
+1.3 "Effective Date" means the date that You agree to the terms of this Agreement or first use the Beta Software, whichever occurs first. 
+	
+2.	Term of Agreement.  This Agreement shall commence on the Effective Date and shall terminate 90 (ninety) days thereafter ("Beta Period"
+ or "Term"), or longer if agreed in writing between Digium and Licensee.  
+
+3.	Limited License.  Digium hereby grants Licensee a nonexclusive, nontransferable license, during the Beta Period, to use the Beta Softw
+are (and any copies) solely for Licensee's internal evaluation and testing at the Location.  Licensee obtains no rights other than those grant
+ed to Licensee under this Agreement.  Licensee agrees to destroy the Beta Software and all copies made at the end of the Beta Period.
+
+4.  Beta Software Skype License. The Beta Software contains Skype Intellectual Property, which Digium warrants has been licensed by Skype to D
+igium to the extent necessary for Digium to distribute, manufacture, and evaluate the Beta Software under the terms of this Agreement.  
+
+5. Further Reservations.  Licensee may not: (a) use or copy the Beta Software except as provided in this Agreement; (b) sublicense or assign t
+he license for the Beta Software; or (c) distribute the Beta Software to any third party.  Licensee may not use the Beta Software to the benef
+it or advantage of any third party.
+
+6.	Copyright.  The Beta Software is owned by Digium (or its third party licensors) and is copyrighted and licensed, not sold.  Licensee m
+ay not remove or obliterate any copyright, trademark, or proprietary rights notices of Digium. Licensee must reproduce the copyright notice an
+d any other legend of ownership on each copy, or partial copy, of the Beta Software Licensee makes.
+
+7. Confidentiality. Digium and Licensee agree that any proprietary and confidential information of the parties shall be governed by the attach
+ed terms of the non-disclosure agreement set forth in Exhibit B, a copy of which is attached hereto and the terms and conditions of which are 
+incorporated herein by reference. 
+
+
+8.	Warranty.  SUBJECT TO ANY STATUTORY WARRANTIES WHICH CANNOT BE EXCLUDED, DIGIUM DOES NOT MAKE, AND HEREBY DISCLAIMS (ON ITS OWN BEHALF
+ AND ON BEHALF OF ITS THIRD PARTY LICENSORS AND SUPPLIERS) ANY WARRANTIES OR CONDITIONS EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATIO
+N, WARRANTIES OF NON-INFRINGEMENT AND THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, CONCERNING THE FUNCTION,
+ PERFORMANCE OR DOCUMENTATION FOR THE BETA SOFTWARE.  The term Beta does not imply that general availability of the Software will take place. 
+ This Agreement is not an offer to license future releases of the Software and Digium does not represent that future releases, if any, will be
+ compatible with the Beta Software.
+
+9.	Limitation of Liability. IN NO EVENT WILL EITHER PARTY (INCLUDING, IN THE CASE OF DIGIUM, ITS THIRD PARTY LICENSORS AND SUPPLIERS) BE 
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES IN CONNECTION WITH OR ARISING OUT OF THIS AGREEMENT (INCLUDING
+ LOSS OF PROFITS, USE, DATA, OR OTHER ECONOMIC ADVANTAGE), NO MATTER WHAT THEORY OF LIABILITY, EVEN IF THE EXCLUSIVE REMEDIES PROVIDED FOR IN 
+THIS AGREEMENT FAIL OF THEIR ESSENTIAL PURPOSE AND EVEN IF EITHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OR PROBABILITY OF SUCH DAMAGES. Th
+e provisions of this Section 9 allocate the risks under this Agreement between Digium and Licensee and the parties have relied upon the limita
+tions set forth herein in determining whether to enter into this Agreement.
+
+10.	Fees and Support.  Licensee's use of the Beta Software will be at no charge and Licensee has no obligation to purchase the Beta Softwa
+re from Digium.  Licensee may not use the Beta Software to obtain fees from any source through any application of the Beta Software whatsoever
+.  Licensee may not use Beta Software for resale.  Digium agrees to provide the following limited support to Licensee during the Term: License
+e may contact Digium at the following e-mail address: skypeforasterisk@digium.com  with regard to questions related to Asterisk and Digium wil
+l use commercially reasonable efforts to respond within five (5) business days of receipt of the e-mail. Licensee may contact Skype at the fol
+lowing e-mail address: Skypeforasterisk@skype.net with regard to questions related to Skype software and Skype For Business. 
+
+11.	 Export Regulations.  The Beta Software is licensed for use only in the Location and under the terms of this Agreement.  Licensee ackn
+owledges and accepts that the Beta Software is subject to both US export control laws and regulations and international export regulations. Li
+censee agrees to be bound by any applicable US or international export regulations and to assume sole responsibility for compliance to the ext
+ent that compliance is necessary to exercise Licensee's rights under this Agreement. Licensee acknowledges that the Beta Software may not be e
+xported or reexported anywhere other than the Location. 
+
+12.	Governing Law and Jurisdiction.  Any dispute, controversy, or claim arising out of or relating to this Agreement shall be settled by t
+he courts of the State of New York and the Parties expressly consent to the exclusive personal jurisdiction and venue therein. The substantive
+ law governing this Agreement shall be that of the state of New York, without regard to conflict of laws principles thereof.
+
+13.	Relationship.  Nothing contained in this Agreement is intended to constitute Licensee and Digium as partners or joint venturers, or th
+e employees, agents, or representatives of each other. 
+
+14.	Notice.  Notice will be effective when received by the appropriate company representative and evidenced by any reliable confirmation o
+f receipt, including self-confirmation of a facsimile message.  
+
+15.	Survival.  The obligations under this Agreement which, by their nature, would continue beyond its termination, cancellation, or expira
+tion, shall survive this Agreement.
+

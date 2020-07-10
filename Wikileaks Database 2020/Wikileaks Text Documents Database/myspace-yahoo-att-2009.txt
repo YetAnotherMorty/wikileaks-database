@@ -1,0 +1,33 @@
+From: Duffey, Mike  
+Sent: None
+To: ICAC.Task.Force
+Subject: RE: Att refuses legal process in exigent situation- UPDATE!! and concerns
+
+Thank you to everyone who responded. Below is an update with some concerns that based on the responses we received some of you have had.
+ 
+First let me layout the scenario: Wed night- June 24th we received information that an individual using a yahoo screen name had discussed in detail recently molesting his six year old daughter in an incest forum then chatting on yahoo instant messenger. We began attempting to identify this individual. We discovered a MySpace page associated with the email address. Also on the Myspace, which was public was a name and photos of a girl with the same name as the one who was being molested. Also on the Myspace page was the photo of an adult female who had been tagged, which linked us to her public MySpace page, and had a caption under the photo saying “girlfriend”. Also at this time we were able to discover who we believed the potential targets were but based on info we were receiving we were not able to determine where the suspect was living due to multiple addresses. Later we discovered that our suspect had moved two weeks ago to where we ultimately found him.
+ 
+We contacted MySpace claiming  “exigent circumstances” for subscriber info and log in information for both MySpace using the users at they both had photos of the child victim on there pages with references to her being their child. MySpace responded to our request within 20 minutes and 45 minutes later we had the IP log-in info. Which came back with at least 15 different IP’s over the last 30 days, all belonging to ATT.
+ 
+Problem Number 1. –Yahoo
+In the mean time we were still waiting on Yahoo to respond to our initial request. Approximately three hours later yahoo responded by denying our exigent request. We then called Yahoo back and explained the situation to yahoo who understood the request but claimed they would not be able to obtain the IP log-in info until 48 hours after the log-in occurred. In this case we had info the abuse had recently occurred and need that IP log in within that 48 hour window. When we couldn’t get that we were forced to push back for IP info after the 48 hour window. After 7-hours they gave us the IP’s that were over 48 hours old. These IP’s also were assigned to ATT.
+ 
+My Comment here is that I find it very hard to believe Yahoo, which collects your IP at the time of log in can’t provide LEO’s with IP log-in information until 48 hours later. In today security conscious environment its not weather they can its that they don’t want to and im sure they will site costs. I say they are actually helping facilitate criminal activity and hindering LEO’s ability to conduct a real time investigation.
+ 
+Problem Number-2- ATT
+We then contacted ATT around 9:00 am. We talked with [employee's name redacted] at ATT and explained to her the situation at hand. [employee] told us “it did not meet there requirement” and we need a  subpoena to get that information. We again attempted to explain the situation and were told “ due to ECPA and their interpretation ATT was not allowed to release this information as to where the user of the IP was physically located at. We than began the legal process of getting a subpoena issued as we here in FL don’t have Admin subpoena powers and the process could take anywhere from 4-5 hours or longer. Upon posting on the listserve we received many, many contact names for ATT other than [employee] who basically of no help and didn’t really seem to care. We then contacted [employee 2] with ATT who also toed the company line and refused to provided the information without a subpoena. [employee 2] explained that if it was an exigent situation we would not be giving him IP addresses that were over 48 hours old, hence where is the exigency? We then explained that the IP had to be like that because Yahoo couldn’t provide us with current IP’s. It was at this point that we went to the only current IP we had which were from the MySpace info which was connected to the yahoo email address. We were still forced to get a subpoena after which ATT confirmed the address and subscriber name at 4pm.
+ 
+My comment is on ATT interpretation of ECPA and that they sighted a prior issue where they provided subscriber info to an LEO. The case went to trial and at the trial ATT had to explain why they provided customer info to LEO’s in a non-exigent situation, thus the defense claimed. ATT said the info they provided was throw out and caused a bad case. ATT explained that is one example as to why they don’t just give out customer on old IP’s, which I explained the fact of why this was occurring and that a child we believed was being sexually abused. In the end they didn’t offer much help either as we had already developed enough intelligence to connect the suspect with a residence.
+ 
+At 6pm we hit the residence. In the interview with the suspect he admitted to sexually molesting the child over the last two day and while doing so streamed it on webcam to other users. The child was interviewed and divulged the occurrence. Actually the suspect was to arrive home about ten minutes after we arrived. We can only imagine what would have occurred that evening. Why would it have been different than any other night.
+ 
+To those who assisted thank you !!
+ 
+I can only hope that one day ATT realizes that there interpretation of ECPA potentially could have hindered us to a point that the abuse could have occurred again. They are not by themselves there Yahoo in their inability to provide LEO with real time IP is equally to blame. Especially when they both could have been of more help!! I realize that they receive a lot of requests but they also make a lot of money from the people who use their systems.   
+ 
+ 
+
+Mike Duffey
+Special Agent
+Florida Department of Law Enforcement
+Computer Crime Center

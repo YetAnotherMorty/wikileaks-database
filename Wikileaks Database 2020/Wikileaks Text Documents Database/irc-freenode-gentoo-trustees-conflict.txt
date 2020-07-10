@@ -1,0 +1,53 @@
+Note: E-mail CC'ed to Gentoo Council, Gentoo Infrastructure and freenode Steering Committee.
+
+Dear Trustees, 
+
+I hope this e-mail finds you all well. I write to you, as the legal governing body of the Gentoo Foundation, regarding recent issues concerning Gentoo's use of freenode services.
+
+I would like to address a couple of concerns in this e-mail.
+
+Firstly, very recently one of your developers fell victim of an erroneous network ban. With a network the size of ours innocent users are occasionally wrongly banned. Be this a result of a paste gone wrong, the range of IP's in 
+a ban being too wide, or other human errors. We strive to resolve such situations in a timely manner, and thankfully in this case the situation was rectified immediately after the user in question contacted us. 
+
+While this issue was still ongoing, the Gentoo Group Contacts requested that freenode staff release information to them regarding any bans concerning people affiliated with your project. freenode staff are not legally in a 
+position to pass on information regarding users to a third party. However, we understand how Gentoo as a project feel that this would enable them to more effectively manage developer relations and as such we sought out legal 
+advice on how to best approach this.
+
+We are happy to inform you that there is one way to approach this, while still protecting the privacy of individual users, projects and freenode as a service. 
+
+Gentoo may provide us with signed retroactive consent forms along with certified proof of ID, for each and every person with a Gentoo cloak and as soon as this is up to date we will be in a position to share information regarding 
+these users with the Gentoo group contacts.
+
+Obviously this is a huge admin task and as such this would be subject to a nominal fee of $10.00 per form to cover any costs involved.
+
+We hope this helps.
+
+Secondly, Gentoo as a project has perhaps become somewhat of a "spoilt child" as far as freenode projects are concerned. This has been as a result of Gentoo historically having group contacts which also wore a freenode staff hat 
+and as such were in a position to fast-track things, jump queues, and go that little mile extra in order to make things easier for a project for which they cared. 
+
+Unfortunately, this set a precedent which has resulted in Gentoo making demands of freenode which staff feel are unreasonable, while Gentoo is left with the feeling that freenode no longer care about them as a project. We provide 
+a service to just under 50,000 daily users, and while we will try to help the projects that use our services as much as possible we are not in a position to single out one project for "special treatment" when this ends up costing a lot in 
+staff time, resulting in adverse effects on the quality of support and care given to other projects and users of the service. 
+
+We realise that we played every part in creating this situation to start with and we are very sorry for any expectations which has arisen as a result.
+
+We also understand that Gentoo are yet again in discussions regarding a possible change of IRC set-up, researching alternative IRC networks and also the possibility of running their own. 
+
+Considering the development time lost as a result of several key developers ending up having to spend much of their time on the various conspiracy theories circulating regarding freenode spying on Gentoo channels and private messages, and existing only to make development difficult for the Gentoo project, we can understand that Gentoo may feel that the best solution is to move off of freenode. While it is not in our place to advice you to stay, or go, I would like to point out that should you choose to create your own network rather than simply move to a existing one, you, as trustees may wish to start looking into the legal aspects concerning cross-country data-protection, privacy and other laws pertaining the storage and handling of any information passing through your IRC servers. As freenode came to realise, in this day and age, with laws and legislations differing across borders complying with the legal aspects and protecting user data is a costly process, but by no means, an impossible one. In particular, you may wish to familiarise yourself with COPPA and make provisions for how to deal with under-13s.
+
+While we understand that Gentoo may feel that this is the best approach to take, considering the development time lost as a result of several key developers ending up having to spend so much time on conspiracy theories such as those where freenode is accused of spying on developers channels and private messages, those where freenode is accused of merely existing to make development difficult for the Gentoo project etc,.  
+
+We'd like to assure you that, accusations from Gentoo developers to the contrary, we do not sniff network traffic, spy on private conversations or listen in on channels where we are not present. We did at one point have a rogue sponsor who abused powers to sniff an IRC password, but he no longer has access to freenode hardware. We have introduced screening measures to reduce the changes of such a thing happening again.
+
+Now, we realise that these rumours (and many more) are spread by individuals and not the official stance of the Gentoo Foundation, and as such Gentoo as a project can not be blamed for the actions of individual developers. On 
+that note though, may I suggest that Gentoo also consider that freenode is a service which are here to help FOSS projects easier manage their communities, this however, does not mean that freenode will accept trolling and 
+deliberate attempts at damaging the network from a user affiliated with any of the projects who use us. 
+
+To us, a user is first and foremost a user, regardless of which project they may be affiliated with. And we expect all our users to comply with our policies, affiliated or unaffiliated with any project. 
+
+In light of the above, should Gentoo choose to move to a different network we would be happy to, where possible, help make the transition as easy as possible for your project. 
+
+Kind Regards, 
+Christel Dahlskjaer
+
+Disclaimer: This E-mail is confidential. It may also be legally privileged. If you are not the addressee you may not copy, forward, disclose or use any part of it. If you have received this message in error, please delete it and all copies from your system and notify the sender immediately by return E-mail. Internet communications cannot be guaranteed to be timely secure, error or virus-free. The sender does not accept liability for any errors or omissions.
