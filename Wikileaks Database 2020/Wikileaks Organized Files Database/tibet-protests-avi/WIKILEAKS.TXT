@@ -1,0 +1,50 @@
+__        ___ _    _ _               _        
+\ \      / (_) | _(_) |    ___  __ _| | _____ 
+ \ \ /\ / /| | |/ / | |   / _ \/ _` | |/ / __|
+  \ V  V / | |   <| | |__|  __/ (_| |   <\__ \
+   \_/\_/  |_|_|\_\_|_____\___|\__,_|_|\_\___/
+                                              
+    http://wikileaks.org/
+
+
+Censored Tibet protest videos March 2008
+
+AVI video encoding :  Tue Mar 18 13:32:27 GMT 2008
+
+Cryptographic checksums:
+
+SHA256 (BBC_-_Dalai_Lama_interview_on_Tibet_protests_2008.03.16.avi) = 85112a2a307153bf548edac171632ce0bb0a4d1a8c7da3b0b0da7bcfe1bf1710
+SHA256 (BBC_-_Deaths_Reported_in_Tibet_Protests.avi) = 470c20ff6fc0a8be007e33a96982f54b4ce532a8eef796029f267679c1de41e0
+SHA256 (BBC_-_Lhasa_Tibetan_Demanded_independent_from_China_rule.avi) = 5036436ccf0dbc6f7ee9691c5b503d140a473e3ad1d2224ec50facef469c8a2c
+SHA256 (BBC_-_The_world_condemn_China_killed_Tibet_Protesters.avi) = 51e154e7a56aad0497eef513a4b4bc648fccf656f1955cc7ec0ffe516fde5749
+SHA256 (BBC_F2_ABC_-_Protests_in_Tibet_Lhasa_against_China.avi) = 9c77acb067921ca44b6225eeb745a5a7400113070016020ab305d338d031f5dc
+SHA256 (British_TV_-_Document_Tibet_Protest_for_Independent_Lhasa.avi) = 65bdd87e5f6a71632e820ad291edb7189d604de1733aceef2bc02c469baae993
+SHA256 (Brussels_Belgium_Tibet_Protest_against_China.avi) = c886b1cc6844f2e06754faa69ca0c57eb750f71ca41efdef00d6ba582ab5bc63
+SHA256 (CNN_-_Bejing_Blind_the_world_on_Tibet-Kick_Foreign_out_of_Lhasa.avi) = 9992c1ab1e8eb6bb768cedb69f74e4d84ff9eb1b6e3e87dbf1ac38a080fd97d6
+SHA256 (CNN_-_Protest_in_Tibet.avi) = b4bc806a32f2ec43d6ae4d051850281354031de8b761045467433d4c32e6ae7f
+SHA256 (CNN_-_Protest_in_Tibet_and_India_Against_China.avi) = 6650280de6a642f4c8415c772409f4368f21725fea1979c4fc943efc732b7d87
+SHA256 (CNN_World_-_Activists_report_clashes.avi) = fa90999894af33d09d6a3e004db20c86fd380d7214540585cf3dc31333b9ef76
+SHA256 (CNN_World_-_Tibet_Chinas_media_blackout.avi) = d11de884ca8d2e755568c18bf31b75c72e62d38b494a68a3381911bd3a34262e
+SHA256 (CNN_World_-_Tibet_Chinas_problem.avi) = 6d01cbe5d0477924734648848fcb210fa32cd938631fca0351238cfc2221d4d9
+SHA256 (CNN_World_-_Tibet_Chinese_security_in_Lhasa.avi) = 55e5904f4525a7ae6b68fc0a43e1a94ff0111f2bebc70d91f915901a73333d62
+SHA256 (CNN_World_-_Tibet_Exiles_arrested.avi) = 2efc7f2b3c280aa34a863321d8514ba2b606c0a9b674411f506028e659ffc1fa
+SHA256 (CNN_World_-_Tibet_Free_Tibet_Movement.avi) = 8be827158a70bb20f4abf2ee4fce6e99668329549805168fa43518643d21b6bb
+SHA256 (CNN_World_-_Tibet_Hunger_strike_in_India.avi) = de6c08d1ad6f0f674796d346e2705972ad3136338bc3b506c428a7724a763bd5
+SHA256 (CNN_World_-_Tibet_Marchers_stopped.avi) = 87223c01dff17af9019947d2c6cf3adacda3fa3ef35c3225bb2d8a1d340026a3
+SHA256 (CNN_World_-_Tibet_Olympics_tied_to_protests.avi) = ac9367bf6efab6d3de69b88227b8c12576df60826f5b710e221769cb8cf1412c
+SHA256 (CNN_World_-_Tibet_Protest_quashed.avi) = 504b3f73a4161712ffb6286755e0821a2c7b099303b68906b4feae796f23edfd
+SHA256 (CNN_World_-_Tibet_Protests_continue.avi) = f6eee420e3e50c68f7b9a0ebf290fd74cd885faf2774b69bf84548cdec491817
+SHA256 (CNN_World_-_Tibet_Protests_in_India.avi) = 59e8cf4237fafd911880e02224298f4ce65fab23c3dac0e50e379e32653c2ec4
+SHA256 (CNN_World_-_Tibet_Refugees_jailed.avi) = ac59c0d9ecae8c33f2ca66dd1d0fde76cb8534b240df3739bd394534a6ed1a4c
+SHA256 (CNN_World_-_Tibet_Richard_Gere_speaks.avi) = b989f38d3a45f106c40cc8bf5e7bb80825abf2b079b0192575878f5339a035bc
+SHA256 (CNN_World_-_Tibet_Riot_breaks_out.avi) = fc5d54f15acee6f95c9769bbcce2aa814dd87e64a3efd56010ea53e0c219b453
+SHA256 (Calgary_Canada_Tibet_Protest_against_China.avi) = ee1c15f57fa5aed34a3348594f735eeb720439d83f824b374ebb1c3f895ad56e
+SHA256 (France_24_-_Greatest_Embarrassment_Beijing_Olympics.avi) = 9a70868df4b93a99e5de70efd5b9b8444e86479a5f0ee4be352fad4725bdf302
+SHA256 (Interview_with_tourists.avi) = 32c3735c443155142470a04067b19d805f0b6d98f7c850955b43720caaf2f2f7
+SHA256 (Journeyman.tv_-_Tibet_Protests_grow.avi) = 692fa034135018f2bb32236a13caca1e8f7c50223866e022f3eda30e9c369fed
+SHA256 (Netherland_TV_-_Protests_in_Tibet.avi) = c7e844cec512027e3b0e16877a578565b7b2e007d1c89cdbb64ab5c83ff3e1e5
+SHA256 (Protest_in_Eastern_Tibet.avi) = 6fb555da41fa1410ec3a1c84c9f37a4c10062296cfc8b1abb633ab8a2269342f
+SHA256 (Sky_News_-_Dalai_Lama_called_for_investigation_in_Tibet_Protests.avi) = fda888f9ee1c1f03453b97e4fb03ae0610a6ad23326aa3904f01be3f1303e6d6
+SHA256 (Tibet_Lhasa_15-03-08.avi) = cb935dcadf9f6d3d053356b6b5c5dc98d1044b2798630ec5ecd8bae354e79585
+SHA256 (Tibet_protest_in_Amdo_Labrang.avi) = 4abf0c10c5e1a24983762e57f2160495f4ee8f00a596d6b3c70ad57a1cf4c6a3
+SHA256 (Zurich_Switzerland_Tibet_Protests.avi) = 1a94319619a75c46c974000f0639cd546d135d5d2d80f807ca4cc70220be19dd
