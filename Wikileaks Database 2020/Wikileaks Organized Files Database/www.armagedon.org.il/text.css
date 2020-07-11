@@ -1,0 +1,16 @@
+.text{font:15px Arial; color:#ffffff; line-height:15px;}
+.title{font:bold 15px Arial; color:#ffffff; line-height:15px;}
+.nav_link{font:15px Arial; color:#ffffff; text-decoration:none;}
+
+a.nav_link:link{font:15px Arial; color:#ffffff; text-decoration:none;}
+a.nav_link:visited{font:15px Arial; color:#ffffff; text-decoration:none;}
+a.nav_link:active{font:15px Arial; color:#fff408; text-decoration:none;}
+a.nav_link:hover{font:15px Arial; color:#fff408; text-decoration:none;}
+
+a.title:link{font:bold 15px Arial; color:#ffffff; line-height:15px; text-decoration:none;}
+a.title:visited{font:bold 15px Arial; color:#ffffff; line-height:15px; text-decoration:none;}
+a.title:active{font:bold 15px Arial; color:#fff408; line-height:15px;}
+a.title:hover{font:bold 15px Arial; color:#fff408; line-height:15px;}
+
+
+
