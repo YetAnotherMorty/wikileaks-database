@@ -1,0 +1,85 @@
+
+<MAIN>
+<NOTHREAD>
+<AUTHSORT>
+<NODOC>
+
+<TITLE>
+WikiLeaks: aryannationspa@hotmail.com leaked emails, 2009 mail archive (by Author)
+</TITLE>
+<style type=text/css>
+@import main.css;
+</style>
+<MsgLocalDateFmt>
+%B %d, %Y
+</MsgLocalDateFmt>
+
+<IDXPGBEGIN>
+<HTML><HEAD>
+<title>WikiLeaks: aryannationspa@hotmail.com leaked emails, 2009 mail archive (by author)</title>
+</HEAD>
+<BODY BGCOLOR=#ffffff>
+
+</style>
+
+
+
+<a name=top></a>
+</IDXPGBEGIN>
+
+<!-- index page -->
+
+<LISTBEGIN>
+<CENTER>
+<H2>WikiLeaks: aryannationspa@hotmail.com leaked emails, 2009 mail archive (by author)</H2>
+</CENTER>   
+<P>
+<address>
+Last updated: $LOCALDATE$<br>
+$NUMOFMSG$ messages<br> 
+</address>
+<p>
+<hr>
+<ul>
+</LISTBEGIN>
+
+<IDXFNAME>
+author.html
+</IDXFNAME>
+
+<IDXPREFIX>
+author
+</IDXPREFIX>
+<NOREVERSE>
+
+
+<AuthorBegin>
+<li><strong>$FROMNAME$</strong>, $FROMADDR$</LI>
+<ul>
+</AuthorBegin>
+
+<LITemplate>
+<li>$SUBJECT$ ($NUMFOLUP$), $MSGLOCALDATE$</li>
+</LITemplate>
+
+<AuthorEnd>
+</li></ul>
+</AuthorEnd>
+
+<LISTEND> 
+</ul>
+<p>
+<hr>
+<p>
+<strong>
+<a href=/wiki/aryan-nation-2009>Entry for this page on WikiLeaks</a> |
+<a href=/wiki/Talk:aryan-nation-2009>Discussion page on WikiLeaks</a> |
+<a href=/>wikileaks.org</a> <br>
+<a href=$IDXFNAME$>Date Index</a> |
+<a href=$TIDXFNAME$>Thread Index</a> |
+<A href=author.html>Author Index</a>
+</strong>
+<p>
+</LISTEND>
+
+
