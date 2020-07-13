@@ -3,6 +3,8 @@ Welcome to the The Wikileaks Database Backup Project wiki, a means of archiving 
 
 Please note that this is a work in progress and I will continue to update as much as I can. I am only one person. The files are currently being uploaded, but the wiki pages might take longer to get up and running. In the meantime, you may go unto the [ < code >](https://github.com/TheArchyvist/wikileaks-database) tab and browse the [Wikileaks Database 2020](https://github.com/TheArchyvist/wikileaks-database/tree/master/Wikileaks%20Database%202020) directory.
 
+Before you do continue, I must warn you that there are certain images and videos that you might find disturbing. If you grew up during the Wild West of the Internet, and expereicenced the horror that was Best Gore and ePhucked, then you are welcome to follow down the rabbit hole as I have, but if you are faint of heart, I suggest avoiding some of the archives.
+
 ***
 
 Please check out the [The Wikileaks Database Backup Project Wiki](https://github.com/TheArchyvist/wikileaks-database/wiki) for further information on the files.
