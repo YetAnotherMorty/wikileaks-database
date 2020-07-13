@@ -17,4 +17,4 @@ Please check out the [The Wikileaks Database Backup Project Wiki](https://github
 | Wikileaks Other Files Database | 29 | 563 MB |
 | Wikileaks PDF Database | 1,267 | 3.22 GB |
 | Wikileaks Photo Database | 48 | 20.MB |
-| Wikileaks Text Documents Database | 82 | 37.8 MB |
+| [Wikileaks Text Document Database](https://github.com/TheArchyvist/wikileaks-database/wiki/Wikileaks-Text-Documents) | 82 | 37.8 MB |
